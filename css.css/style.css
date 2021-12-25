@@ -1,0 +1,23 @@
+/*header*/
+.name{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+.container{
+    width: 1286px;
+    height: 1395.95px;
+    background-color: #56836F;
+    margin: 40px;
+}
+.ul-nav{
+    display: flex;
+    justify-content: center;
+    padding: 36px 217px 322px ;
+}
+li a{
+    color: #FFFFFF;
+    font-size: 48px;
+    margin-right: 60px;
+}
+
