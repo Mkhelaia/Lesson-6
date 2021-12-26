@@ -57,30 +57,6 @@ li a{
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 45px 13px;
 }
-.containerGrid > *:nth-child(1){
-    -ms-grid-row: 1;
-    -ms-grid-column: 1;
-}
-.containerGrid > *:nth-child(2){
-    -ms-grid-row: 1;
-    -ms-grid-column: 3;
-}
-.containerGrid > *:nth-child(3){
-    -ms-grid-row: 3;
-    -ms-grid-column: 1;
-}
-.containerGrid > *:nth-child(4){
-    -ms-grid-row: 3;
-    -ms-grid-column: 3;
-}
-.containerGrid > *:nth-child(5){
-    -ms-grid-row: 5;
-    -ms-grid-column: 1;
-}
-.containerGrid > *:nth-child(6){
-    -ms-grid-row: 5;
-    -ms-grid-column: 3;
-}
 .info{
     width: 617px;
     height: 356px;
